@@ -14,7 +14,7 @@ A [vickery auction](https://en.wikipedia.org/wiki/Vickrey_auction) is held for e
   - The item is not for the players current main spec.
   - The item is not an upgrade for the players currently equipped item and no reasonable argument can be made as to how this item can be useful for a given player.
 
-The following items excptions and are handled as follows:
+The following items are excptions to the rules above and are handled as follows:
 - Recipies: 
   - The first drop of a new recipie automatically goes to the guild crafter for that profession.
   - Second drop and beyond will be placed up for `/roll` amoung crafters of that profession.
@@ -43,7 +43,7 @@ DKP points can be gained from any of the following activities.
 
 #### Required Resource Turn-Ins
 
-Turn-ins of items required for guild progression will be awared with DKP. The following items are eligable for turn-in:
+Turn-ins of items required for guild progression will be rewarded with DKP. The following items are eligable for turn-in:
 
 - [Greater Shadow Protection Potion x5](https://classic.wowhead.com/spell=17578/greater-shadow-protection-potion) (4 DKP)
 - [Elemental Earth x15](https://classic.wowhead.com/item=7067/elemental-earth) (4 DKP)
