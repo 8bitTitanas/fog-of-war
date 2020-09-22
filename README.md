@@ -6,10 +6,11 @@
 
 A [vickery auction](https://en.wikipedia.org/wiki/Vickrey_auction) is held for each piece of gear loot dropped. 
 - This is a sealed, single bid system. Other players will not know how much another player has bid for a given item.
-- Each player will have 40 seconds to place a bid.
+- The loot master will put an item up for auction with a minimum price, which by default is 2-DKP unless specified otherwise.
+- Each player will have 40 seconds to place ONE bid.
 - The player with the highest bid pays the value of the second highest bid and wins the item.
 - In the event of a tie the player with the highest total pool of DKP wins the bid and pays the highest amount bid.
-- In the event only a single player bids on a given item that player pays their bid price and wins the item.
+- In the event only a single player bids on a given item that player pays the minimum price and wins the item.
 - The loot master has the right to deny players right to roll on a given item for the following reasons:
   - The item is not for the players current main spec.
   - The item is not an upgrade for the players currently equipped item and no reasonable argument can be made as to how this item can be useful for a given player.
