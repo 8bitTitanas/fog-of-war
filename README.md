@@ -44,15 +44,17 @@ DKP points can be gained from any of the following activities.
 
 #### Required Resource Turn-Ins
 
-Turn-ins of items required for guild progression will be rewarded with DKP. The following items are eligable for turn-in:
+Some items required for guild progression can be mailed to `Fogofwarbank` for DKP rewards. The cap for DKP earned in this manner is 4 DKP per week with the exception of [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) which rewards 12 DKP per week due to it's gold cost. Items are counted each Monday and DKP values will be updated in Monolith accordingly.
 
+Items Eligable for Turn-In:
 - [Greater Shadow Protection Potion x5](https://classic.wowhead.com/spell=17578/greater-shadow-protection-potion) (4 DKP)
 - [Elemental Earth x15](https://classic.wowhead.com/item=7067/elemental-earth) (4 DKP)
 - [Dreamfoil x20](https://classic.wowhead.com/item=13463/dreamfoil) (4 DKP)
 - [Arcanite Bar](https://classic.wowhead.com/item=12360/arcanite-bar) (4 DKP)
 - [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) (12 DKP)
 
-// NOTE: Chat with Titanas about this. The pinned comment talks about a 4 DKP max gain per week through this method but then Black lotus is priced 12 DKP. Unsure how to clairify the rules around this better.
+Example:
+- Player turns in [Elemental Earth x15](https://classic.wowhead.com/item=7067/elemental-earth) and recieves 4 DKP hitting the cap for normal turn-ins this week. Turning in additional normal items this week will not award any more DKP. If the player turns in a [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) in the same week they will recieve 12 DKP total due to the cap increase.
 
 ## Raider Expectations
 // TODO
