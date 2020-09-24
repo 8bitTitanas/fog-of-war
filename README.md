@@ -10,7 +10,8 @@ A [vickery auction](https://en.wikipedia.org/wiki/Vickrey_auction) is held for e
 - Each player will have 40 seconds to place ONE bid.
 - The player with the highest bid pays the value of the second highest bid and wins the item.
 - In the event of a tie the player with the highest total pool of DKP wins the bid and pays the highest amount bid.
-- In the event only a single player bids on a given item that player pays the minimum price and wins the item.
+- In the event only a single player bids on a given item that player pays the minimum price of 2 and wins the item.
+- Maximum Bid Price of 150 during the transition to vickery auction.
 - The loot master has the right to deny players right to roll on a given item for the following reasons:
   - The item is not for the players current main spec.
   - The item is not an upgrade for the players currently equipped item and no reasonable argument can be made as to how this item can be useful for a given player.
@@ -38,13 +39,13 @@ For reserved items we will fallback to the same loot rules as outlined in the "F
 DKP points can be gained from any of the following activities.
 
 #### Participation in guild sponsored raids
-- MC (1 DKP per 30 minutes)
-- BWL (1 DKP per 30 minutes)
+- MC (2 DKP per 30 minutes)
+- BWL (2 DKP per 30 minutes)
 - AQ40 (2 DKP per 30 minutes)
-
+- OnTime Bonus (2dkp for being at meetup prior to raid start)
 #### Required Resource Turn-Ins
 
-Some items required for guild progression can be mailed to `Fogofwarbank` for DKP rewards. The cap for DKP earned in this manner is 4 DKP per week with the exception of [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) which rewards 12 DKP per week due to it's gold cost. Items are counted each Monday and DKP values will be updated in Monolith accordingly.
+Some items required for guild progression can be mailed to `Fogofwarbank` for DKP rewards. The cap for DKP earned in this manner is 4 DKP per week with the exception of [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) which rewards 12 DKP per week due to it's gold cost. Items are counted each Monday and DKP values will be updated in Monolith accordingly. Each point of DKP is equal to roughly 10g in regards to Turn-ins.
 
 Items Eligable for Turn-In:
 - [Greater Shadow Protection Potion x5](https://classic.wowhead.com/spell=17578/greater-shadow-protection-potion) (4 DKP)
@@ -57,4 +58,17 @@ Example:
 - Player turns in [Elemental Earth x15](https://classic.wowhead.com/item=7067/elemental-earth) and recieves 4 DKP hitting the cap for normal turn-ins this week. Turning in additional normal items this week will not award any more DKP. If the player turns in a [Black Lotus](https://classic.wowhead.com/item=13468/black-lotus) in the same week they will recieve 12 DKP total due to the cap increase.
 
 ## Raider Expectations
-// TODO
+
+Players are expected to have core consumables for each raid depending their roll.
+- Healers ( Mana Potions, Oil )
+- Tanks and Offtanks ( Mongoose and Stonehield )
+- Physical DPS ( Mongoose, SharpStones )
+- Caster DPS ( Mana Potions, Spell Damage Potions )
+- ALL ( Stat food some Protection Potions )
+Not ALL fights Require the use of consumables but when it is called for please be prepaired.
+
+## Further out
+Starting with the announcement of Naxxramas.
+- All players will be required to use PVE specs.
+- Debuff slots will be strict.
+//
